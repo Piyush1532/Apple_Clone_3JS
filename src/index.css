@@ -22,6 +22,7 @@
 
 * {
   scrollbar-color: var(--color-dark-100) var(--color-black);
+  user-select: none;
 }
 
 :root {

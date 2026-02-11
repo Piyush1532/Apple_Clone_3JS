@@ -1,4 +1,4 @@
-import { exp } from "three/tsl"
+
 
 export const navLinks=[
  {label:"Store"},   
@@ -135,7 +135,7 @@ export {
     features,
     featureSequence,
     footerLinks,
-    navLinks,
+    // navLinks,
     noChangeParts,
     performanceImages,
     performanceImgPositions,
